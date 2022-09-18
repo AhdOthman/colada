@@ -1,0 +1,176 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+// ignore_for_file: constant_identifier_names
+
+abstract class LocaleKeys {
+  static const colada_name = 'colada_name';
+  static const offer_title_benefit = 'offer_title_benefit';
+  static const offer_message = 'offer_message';
+  static const next_button = 'next_button';
+  static const scan_title = 'scan_title';
+  static const scan_message = 'scan_message';
+  static const finish_button = 'finish_button';
+  static const profile_name = 'profile_name';
+  static const colada_cash_name = 'colada_cash_name';
+  static const home_tab_bar_name = 'home_tab_bar_name';
+  static const favorite_tab_bar_name = 'favorite_tab_bar_name';
+  static const activity_tab_bar_name = 'activity_tab_bar_name';
+  static const profile_tab_bar_name = 'profile_tab_bar_name';
+  static const discount_text = 'discount_text';
+  static const expired_text = 'expired_text';
+  static const cashier_scan_statement = 'cashier_scan_statement';
+  static const completed_text = 'completed_text';
+  static const review_order_text = 'review_order_text';
+  static const issue_statement = 'issue_statement';
+  static const open_status = 'open_status';
+  static const close_status = 'close_status';
+  static const offers_text = 'offers_text';
+  static const saturday = 'saturday';
+  static const sunday = 'sunday';
+  static const monday = 'monday';
+  static const tuesday = 'tuesday';
+  static const wednesday = 'wednesday';
+  static const thursday = 'thursday';
+  static const friday = 'friday';
+  static const visit_history_title = 'visit_history_title';
+  static const on_going_state = 'on_going_state';
+  static const expired_state = 'expired_state';
+  static const scanner_title = 'scanner_title';
+  static const scan_instructions = 'scan_instructions';
+  static const scan_user_confirmation = 'scan_user_confirmation';
+  static const camera_title = 'camera_title';
+  static const go_to_setting = 'go_to_setting';
+  static const location_title = 'location_title';
+  static const current_visit_title = 'current_visit_title';
+  static const featured_partners_title = 'featured_partners_title';
+  static const see_all_title = 'see_all_title';
+  static const favorites_title = 'favorites_title';
+  static const login_title = 'login_title';
+  static const getting_started_title = 'getting_started_title';
+  static const asking_mobile = 'asking_mobile';
+  static const phone_number_title = 'phone_number_title';
+  static const finding_restaurants_near_you_title =
+      'finding_restaurants_near_you_title';
+  static const find_restaurants_location_statement =
+      'find_restaurants_location_statement';
+  static const ask_adders = 'ask_adders';
+  static const use_current_location_title = 'use_current_location_title';
+  static const valid_state = 'valid_state';
+  static const used_state = 'used_state';
+  static const account_setting_title = 'account_setting_title';
+  static const account_setting_description = 'account_setting_description';
+  static const profile_information_option = 'profile_information_option';
+  static const profile_information_option_description =
+      'profile_information_option_description';
+  static const refer_friends_option = 'refer_friends_option';
+  static const refer_friends_option_description =
+      'refer_friends_option_description';
+  static const notification_option = 'notification_option';
+  static const notification_option_description =
+      'notification_option_description';
+  static const language_option = 'language_option';
+  static const language_option_description = 'language_option_description';
+  static const logout_text = 'logout_text';
+  static const change_language_options_title = 'change_language_options_title';
+  static const english_language_option = 'english_language_option';
+  static const arabic_language_option = 'arabic_language_option';
+  static const review_visit_title = 'review_visit_title';
+  static const write_comment_title = 'write_comment_title';
+  static const submit_title = 'submit_title';
+  static const term_and_condition = 'term_and_condition';
+  static const term_and_conditions_description =
+      'term_and_conditions_description';
+  static const available_title = 'available_title';
+  static const branch_title = 'branch_title';
+  static const catagories_title = 'catagories_title';
+  static const all_title = 'all_title';
+  static const snack_title = 'snack_title';
+  static const brunch_title = 'brunch_title';
+  static const launch_title = 'launch_title';
+  static const breakfast_title = 'breakfast_title';
+  static const timings_title = 'timings_title';
+  static const clear_all_title = 'clear_all_title';
+  static const morning_filter_option = 'morning_filter_option';
+  static const afternoon_filter_option = 'afternoon_filter_option';
+  static const evening_filter_option = 'evening_filter_option';
+  static const italian_filter_types = 'italian_filter_types';
+  static const american_filter_types = 'american_filter_types';
+  static const street_food_filter_types = 'street_food_filter_types';
+  static const vegan_filter_types = 'vegan_filter_types';
+  static const apply_filter_types = 'apply_filter_types';
+  static const verify_phone_number_title = 'verify_phone_number_title';
+  static const verify_phone_number_description =
+      'verify_phone_number_description';
+  static const continue_title = 'continue_title';
+  static const did_not_received_code_title = 'did_not_received_code_title';
+  static const resend_code_again_title = 'resend_code_again_title';
+  static const agree_on_conditions_description =
+      'agree_on_conditions_description';
+  static const refer_a_friend_title = 'refer_a_friend_title';
+  static const refer_a_friend_description = 'refer_a_friend_description';
+  static const full_name_title = 'full_name_title';
+  static const email_adders_title = 'email_adders_title';
+  static const change_setting_option = 'change_setting_option';
+  static const change_adders_title = 'change_adders_title';
+  static const out_standing_balance_title = 'out_standing_balance_title';
+  static const checkout_list_title = 'checkout_list_title';
+  static const checkout_title = 'checkout_title';
+  static const active_offers_title = 'active_offers_title';
+  static const previous_offer_title = 'previous_offer_title';
+  static const show_all_transaction_title = 'show_all_transaction_title';
+  static const balance_title = 'balance_title';
+  static const settle_up_title = 'settle_up_title';
+  static const edit_title = 'edit_title';
+  static const offers_tab_bar_title = 'offers_tab_bar_title';
+  static const dashboard_tab_bar_title = 'dashboard_tab_bar_title';
+  static const store_name_title = 'store_name_title';
+  static const cuisine_title = 'cuisine_title';
+  static const pictures = 'pictures';
+  static const add_menu_link_title = 'add_menu_link_title';
+  static const add_address_title = 'add_address_title';
+  static const save_title = 'save_title';
+  static const history_title = 'history_title';
+  static const visit_number_label_text = 'visit_number_label_text';
+  static const total_value_label_title = 'total_value_label_title';
+  static const colada_fees_label_title = 'colada_fees_label_title';
+  static const create_offer_title = 'create_offer_title';
+  static const use_place_holder_option_title = 'use_place_holder_option_title';
+  static const offer_name_field_text = 'offer_name_field_text';
+  static const offer_name_place_holder = 'offer_name_place_holder';
+  static const offer_details_field_text = 'offer_details_field_text';
+  static const offer_amount_field_text = 'offer_amount_field_text';
+  static const offer_period_field_text = 'offer_period_field_text';
+  static const offer_details_option_fixed_value =
+      'offer_details_option_fixed_value';
+  static const repeat_offer_field_text = 'repeat_offer_field_text';
+  static const offer_times_title = 'offer_times_title';
+  static const offer_slots_availability = 'offer_slots_availability';
+  static const total_order_value_title = 'total_order_value_title';
+  static const order_summary_title = 'order_summary_title';
+  static const subtotal_title = 'subtotal_title';
+  static const discount_value_title = 'discount_value_title';
+  static const total_title = 'total_title';
+  static const cashback_title = 'cashback_title';
+  static const enable_cashback_option = 'enable_cashback_option';
+  static const customer_needs_pay_title = 'customer_needs_pay_title';
+  static const visits_title = 'visits_title';
+  static const check_in_title = 'check_in_title';
+  static const offer_title = 'offer_title';
+  static const repeat_offer_once = 'repeat_offer_once';
+  static const repeat_offer_daily = 'repeat_offer_daily';
+  static const repeat_offer_weekly = 'repeat_offer_weekly';
+  static const repeat_offer_monthly = 'repeat_offer_monthly';
+  static const colada_settle_down_title = 'colada_settle_down_title';
+  static const transaction_title = 'transaction_title';
+  static const date_title = 'date_title';
+  static const currency_title = 'currency_title';
+  static const amount_title = 'amount_title';
+  static const min_value_amount_title = 'min_value_amount_title';
+  static const visit_completion_text = 'visit_completion_text';
+  static const done_title = 'done_title';
+  static const order_details_title = 'order_details_title';
+  static const total_vat_included = 'total_vat_included';
+  static const contact_us_setting_option = 'contact_us_setting_option';
+  static const contact_us_setting_description =
+      'contact_us_setting_description';
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "888933707782",
+    "project_id": "colada-7673e",
+    "storage_bucket": "colada-7673e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888933707782:android:41784c80ee09156f799387",
+        "android_client_info": {
+          "package_name": "com.colada.coladaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888933707782-jkdj1fkl39at8imes5qrbcg2paj1urai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPVVhXU7RiImsW4NU9joWoh7kBMfb5ZQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888933707782-jkdj1fkl39at8imes5qrbcg2paj1urai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888933707782-l8ju421qgfb6df3bjus4u3elt4ta3ovs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.colada.coladaapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
